@@ -6,6 +6,7 @@ Ce projet est une simulation de l'évolution d'une population d'abeille dans un 
 
 L'objectif principal de ce projet était de simuler les changements dans la population d'abeille en fonction des différents facteurs, comme la population de frelon ou le taux de pollution. En utilisant des valeurs réalistes, on peut prédire avec une précision toute relative (le modèle étant imparfait) ce que pourrait devenir une population d'abeille après x années selon l'état de son environnement.
 
+=============================================================
 
 This Python project was done during my preparoty cycle for engineering school, in collaboration with 3 other students, but I was the only one using Github.
 
